@@ -1,6 +1,7 @@
 # TimeZone-clock
-analog clock in Taiwan &amp; London Local time 
+Analog clock in Taiwan &amp; London Local time 
+Change background by a.m. or p.m.
 
-### Github Pages
-See [Configuration Reference](https://lillianniu3640.github.io/TimeZone-clock/).
+### DEMO
+See [Page](https://lillianniu3640.github.io/TimeZone-clock/).
 
